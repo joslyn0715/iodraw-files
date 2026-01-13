@@ -1,0 +1,169 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.17">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1194" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-27" value="业务5组" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2400" y="855" width="456" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-28" value="组长: Sylvia" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-27" vertex="1">
+          <mxGeometry x="43" y="46" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-29" value="跟单助理: 实习生D" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-27" vertex="1">
+          <mxGeometry x="237" y="46" width="193" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-30" value="业务4组" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1892" y="855" width="458" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-31" value="组长: Nancy" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-30" vertex="1">
+          <mxGeometry x="43" y="46" width="146" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-32" value="跟单助理: 实习生C" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-30" vertex="1">
+          <mxGeometry x="239" y="46" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-33" value="业务3组" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1166" y="855" width="676" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-34" value="组长: Chris" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-33" vertex="1">
+          <mxGeometry x="43" y="46" width="138" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-35" value="跟单助理: Sylvia" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-33" vertex="1">
+          <mxGeometry x="231" y="46" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-36" value="跟单助理: 实习生B" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-33" vertex="1">
+          <mxGeometry x="457" y="46" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-37" value="业务2组" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="467" y="855" width="649" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-38" value="组长: Maggie" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-37" vertex="1">
+          <mxGeometry x="43" y="46" width="152" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-39" value="跟单: Bear" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-37" vertex="1">
+          <mxGeometry x="245" y="46" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-40" value="跟单助理: 实习生A" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-37" vertex="1">
+          <mxGeometry x="430" y="46" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-41" value="业务1组" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="20" y="855" width="397" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-42" value="组长: Linda" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-41" vertex="1">
+          <mxGeometry x="43" y="46" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-43" value="跟单: Lucy" style="whiteSpace=wrap;strokeWidth=2;" parent="8WJFoMLWCOv-xY20nTVK-41" vertex="1">
+          <mxGeometry x="234" y="46" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-44" value="&lt;b&gt;总经理 (戴总)&lt;/b&gt;&#xa;战略导向 / 全量报价终审 / 异常稽核" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1244" y="250" width="251" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-45" value="&lt;b&gt;业务经理 兼 总助理&lt;/b&gt;&#xa;位俊玲 (Linda)&#xa;全队执行力监督 / 报价理由初核" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1226" y="384" width="287" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-46" value="&lt;b&gt;经营会计 (刘柳)&lt;/b&gt;&#xa;管理积分核算 / 利润回款监控" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1114" y="721" width="242" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-47" value="&lt;b&gt;外贸作战中心&lt;/b&gt;" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="1406" y="739" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-48" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-44" target="8WJFoMLWCOv-xY20nTVK-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-49" value="" style="startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-45" target="8WJFoMLWCOv-xY20nTVK-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-50" value="" style="startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-45" target="8WJFoMLWCOv-xY20nTVK-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-51" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-47" target="8WJFoMLWCOv-xY20nTVK-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-52" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-47" target="8WJFoMLWCOv-xY20nTVK-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-53" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-47" target="8WJFoMLWCOv-xY20nTVK-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-54" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-47" target="8WJFoMLWCOv-xY20nTVK-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WJFoMLWCOv-xY20nTVK-55" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8WJFoMLWCOv-xY20nTVK-47" target="8WJFoMLWCOv-xY20nTVK-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-1" value="后台：保障部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1614" width="356" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-2" value="中台：支撑部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1408" width="609" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-3" value="前台：作战部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="1201" width="513" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-4" value="指挥层：总经办" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1000" width="429" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-5" value="总经理：李总&#xa;职责：战略定航、大客户攻坚&#xa;资金风控、企业文化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="1025" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-6" value="五金渠道部&#xa;负责人：陶维&#xa;成员：陈伟+新人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="268" y="1226" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-7" value="工程项目部&#xa;负责人：李总+韩春林" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1235" width="212" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-8" value="运营服务中心&#xa;负责人：辛连军&#xa;成员：朱优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1433" width="172" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-9" value="技术服务中心&#xa;负责人：孔维旭&#xa;外协：第三方安装队" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="503" y="1433" width="204" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-10" value="供应链管理部&#xa;负责人：梁超&#xa;成员：马了了、赵素华" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1639" width="220" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-11" value="财务综管部&#xa;负责人：王建立&#xa;外协：兼职财务顾问" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1796" width="204" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-12" value="订单流转" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-6" target="A9ywpxiIaNt_sxwbyUQd-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="358" y="1408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-13" value="技术支持" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-7" target="A9ywpxiIaNt_sxwbyUQd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-14" value="发货指令" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.68;entryY=0;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-8" target="A9ywpxiIaNt_sxwbyUQd-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="1614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-15" value="数据对账" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-10" target="A9ywpxiIaNt_sxwbyUQd-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-16" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-5" target="A9ywpxiIaNt_sxwbyUQd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-17" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-5" target="A9ywpxiIaNt_sxwbyUQd-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ywpxiIaNt_sxwbyUQd-18" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="A9ywpxiIaNt_sxwbyUQd-5" target="A9ywpxiIaNt_sxwbyUQd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
